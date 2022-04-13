@@ -13,11 +13,9 @@ Vous pouvez choisir plusieurs autorisations NTFS pour votre fichier. Pour ce fai
 
 
 Les permissions NTFS sont :
-<<<<<<< HEAD
+
 Il existe trois types d'autorisations de partage : Contrôle total, Modification et Lecture. 
 
 Contrôle total : permet aux utilisateurs de "lire", "modifier", ainsi que de modifier les autorisations et de s'approprier les fichiers. 
 Modification : signifie que l'utilisateur peut lire/exécuter/écrire/supprimer des dossiers/fichiers dans le partage.
 Lecture : permet aux utilisateurs de lire des dossiers/fichiers sans pouvoir les modifier ou supprimer.
-=======
->>>>>>> Stashed changes
