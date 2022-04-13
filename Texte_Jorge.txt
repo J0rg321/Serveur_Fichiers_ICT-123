@@ -1,1 +1,5 @@
-C'est hiérarchie 
+C'est un développement hierarchisé de fichiers et de dossiers dans le but de transmettre de manière synchronisée des données de différents types.
+Les utilisateurs ayant accès au serveur, sont soumis à des contraintes émises par l'hôte 
+
+
+"Arborescence" vien du mot arbre, c'est une métaphore pour décrire que l'arborescence 
