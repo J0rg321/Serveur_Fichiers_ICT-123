@@ -1,5 +1,3 @@
 C'est un développement hierarchisé de fichiers et de dossiers dans le but de transmettre de manière synchronisée des données de différents types.
-Les utilisateurs ayant accès au serveur, sont soumis à des contraintes émises par l'hôte 
-
-
-"Arborescence" vien du mot arbre, c'est une métaphore pour décrire que l'arborescence 
+Les utilisateurs ayant accès au serveur, sont souvent soumis à des contraintes émises sur celui-ci au détriment de l'hôte. 
+Ces restrictions sont infranchissables et doivent être respectées. Elles sont représentées par des droits NTFS.

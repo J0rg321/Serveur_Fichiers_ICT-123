@@ -1,8 +1,8 @@
 N T F S
 -----------------------------------------------
 
-NTFS (ou New Technology File System), est une procés que le Windows NT système utilise pour stocker, organiser, et trouver les fichiers sur
-une disque dur. NTFS existe dans les systèmes d'exploitation puisque 1993, et est le système le plus efficace de nos génerations. 
+NTFS (ou New Technology File System), est une procèdure que  Windows NT système utilise pour stocker, organiser, et trouver les fichiers sur
+une disque dur. NTFS existe dans les systèmes d'exploitation depuis 1993 et est le système le plus efficace de notre géneration. 
 
 Vous pouvez choisir plusieurs autorisations NTFS pour votre fichier. Pour ce faire, vous devez suivre ces instructions :
 
@@ -12,5 +12,8 @@ Vous pouvez choisir plusieurs autorisations NTFS pour votre fichier. Pour ce fai
 
 
 Les permissions NTFS sont :
-- Traverser Dossier/Executer les fichiers
-- 
+Il existe trois types d'autorisations de partage : Contrôle total, Modification et Lecture. 
+
+Contrôle total : permet aux utilisateurs de "lire", "modifier", ainsi que de modifier les autorisations et de s'approprier les fichiers. 
+Modification : signifie que l'utilisateur peut lire/exécuter/écrire/supprimer des dossiers/fichiers dans le partage.
+Lecture : permet aux utilisateurs de lire des dossiers/fichiers sans pouvoir les modifier ou supprimer.
