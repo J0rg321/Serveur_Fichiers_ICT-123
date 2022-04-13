@@ -13,5 +13,6 @@ Vous pouvez choisir plusieurs autorisations NTFS pour votre fichier. Pour ce fai
 
 Les permissions NTFS sont :
 Possible avec : 				Controle totale			Modifier		Lire et executer		Lister le contenu du dossier		Lire		Ecrire
-- Traverser Dossier/Executer les fichiers	      Oui			  Oui			       Oui				    Oui				Oui		 Oui
+- Traverser Dossier/Executer les fichiers	      Oui			  Oui			       Oui				    Oui				Non		 Non
+- Lister dossier/Lire data			      Oui			  Oui			       Oui				    Oui				Oui		 Non
 - 
