@@ -1,0 +1,16 @@
+N T F S
+-----------------------------------------------
+
+NTFS (ou New Technology File System), est une procés que le Windows NT système utilise pour stocker, organiser, et trouver les fichiers sur
+une disque dur. NTFS existe dans les systèmes d'exploitation puisque 1993, et est le système le plus efficace de nos génerations. 
+
+Vous pouvez choisir plusieurs autorisations NTFS pour votre fichier. Pour ce faire, vous devez suivre ces instructions :
+
+1. Dans explorateur des fichiers, clique droit sur votre fichier et selectionne l'option "Proprietés"
+2. Cliquer sur "Securité"
+3. Là, vous pouvez selectionner les personnes ou groupes et les donner les permissions NTFS
+
+
+Les permissions NTFS sont :
+- Traverser Dossier/Executer les fichiers
+- 
